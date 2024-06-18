@@ -33,3 +33,12 @@ m
 =src/main/java/com/github/angel/service/EstudianteService.java,7/a/7a6fc0787a5afc2bdba87c915b240a87cbcf51a9
 d
 4src/main/java/com/github/angel/entity/Categorie.java,f/f/ff8f873fdb43127ab44f5dbdb3868adf67e11817
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+Å
+Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88
+<
+.env-example,6/f/6fe2b8ce1383fe0b62bb599b7ed4920eadb3ad3a
+w
+G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec
