@@ -1,0 +1,18 @@
+
+и
+java:S11925"eDefine a constant instead of duplicating this literal "Error al conectar a la base de datos" 6 times.(Й─▓Ю8иля╢В2J$8eb1c9b8-4378-406c-b3f3-e9fce03a0bbd
+а	java:S116"YRename this field "SQL_SELECT_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(юЭЖ├°    8йля╢В2J$047ea7a3-4e55-4252-a876-758117c79c8b
+Ч	java:S116"URename this field "SQL_INSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(╬зщ╞8йля╢В2J$fa4540a2-7194-46db-a8ee-1493b2fc87f6
+Ь	java:S116"URename this field "SQL_UPDATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(┌Т┬╗√    8кля╢В2J$ee91b1f3-ab31-4b90-92e0-006de85337b8
+Ъ	java:S116"YRename this field "SQL_FIND_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Й°В8кля╢В2J$e608b790-b2d9-4ff4-89a2-d3654d1d23af
+в	java:S116"`Rename this field "SQL_DELETE_BY_PRODUCT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ь╜л╦8кля╢В2J$3b6242c5-98ef-4bfe-8c9d-d52c8162bc36
+i
+java:S1170"!Make this final field static too.(юЭЖ├°    8кля╢В2J$96ec7eb6-65ae-4c00-8471-dd2e56a82e4c
+d
+java:S1170"!Make this final field static too.(╬зщ╞8кля╢В2J$b73f29df-f17f-40f1-aa5b-1717189aa0e8
+i
+java:S1170"!Make this final field static too.(┌Т┬╗√    8кля╢В2J$0ae51498-4938-458e-9beb-14ace8101dec
+c
+java:S1170"!Make this final field static too.(Й°В8кля╢В2J$e31057a0-f3dc-458e-acd0-131dbaf6fd96
+d
+java:S1170"!Make this final field static too.(ь╜л╦8кля╢В2J$0e6e41cd-3870-42c5-b2ef-ab890f72aada
