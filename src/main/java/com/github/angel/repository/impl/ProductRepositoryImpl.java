@@ -16,7 +16,7 @@ import java.util.List;
 public class ProductRepositoryImpl implements ProductRepository {
     private final Connection connectionDB = ConnectionDB.getInstance().getConnection();
     private final String SQL_SELECT_ALL = "SELECT p.*, c.nombre as categoria FROM product as p INNER join categories as  c ON (p.categories_id = c.id) ";
-    private final String SQL_INSERT = "INSERT INTO product (nombre, descripcion, precio, fecha, categories_id) VALUES (?, ?, ?, ?, ?)";
+    private final String SQL_INSERT = "INSERT INTO product (nombre, descripcion, precio, fecha, categories_id, codigo) VALUES (?, ?, ?, ?, ?, ?)";
     private final String SQL_UPDATE = "UPDATE product SET nombre = ?, descripcion = ?, precio = ?, fecha = ?, categories_id = ? WHERE id = ?";
     private final String SQL_FIND_BY_ID = "SELECT p.*, c.nombre as categoria FROM product as p INNER join categories as c ON (p.categories_id = c.id) WHERE p.id = ?";
     private final String SQL_DELETE_BY_PRODUCT = "DELETE FROM product as p WHERE p.id = ?";
@@ -32,6 +32,7 @@ public class ProductRepositoryImpl implements ProductRepository {
         product.setPrecio(resultSet.getDouble("precio"));
         product.setDescripcion(resultSet.getString("descripcion"));
         product.setFecha(resultSet.getDate("fecha"));
+        product.setCodigo(resultSet.getString("codigo"));
         product.setCategorie(categorie);
         return product;
     }
@@ -85,6 +86,7 @@ public class ProductRepositoryImpl implements ProductRepository {
                 statement.setDouble(3, entity.precio());
                 statement.setDate(4, new Date(entity.date().getTime()));
                 statement.setLong(5, entity.getCategorie().getId());
+                statement.setString(6, entity.getCodigo());
                 statement.executeUpdate();
                 close(statement);
             }

@@ -1,18 +1,16 @@
 
-¨
-java:S11925"eDefine a constant instead of duplicating this literal "Error al conectar a la base de datos" 6 times.(‰Ä²8¨«ï¶‚2J$8eb1c9b8-4378-406c-b3f3-e9fce03a0bbd
- 	java:S116"YRename this field "SQL_SELECT_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î†Ãøÿÿÿÿ8©«ï¶‚2J$047ea7a3-4e55-4252-a876-758117c79c8b
-—	java:S116"URename this field "SQL_INSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î§éÆ8©«ï¶‚2J$fa4540a2-7194-46db-a8ee-1493b2fc87f6
-œ	java:S116"URename this field "SQL_UPDATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú’Â»ûÿÿÿÿ8ª«ï¶‚2J$ee91b1f3-ab31-4b90-92e0-006de85337b8
-š	java:S116"YRename this field "SQL_FIND_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ø‚8ª«ï¶‚2J$e608b790-b2d9-4ff4-89a2-d3654d1d23af
-¢	java:S116"`Rename this field "SQL_DELETE_BY_PRODUCT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì½«Ë8ª«ï¶‚2J$3b6242c5-98ef-4bfe-8c9d-d52c8162bc36
+ 	java:S116"YRename this field "SQL_SELECT_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î†Ãøÿÿÿÿ8úÁûˆƒ2J$4a9b8051-6243-4ce0-84c2-d2fe927147cd
+œ	java:S116"URename this field "SQL_INSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èü¡Éıÿÿÿÿ8ûÁûˆƒ2J$ffeb1d80-64fb-4c5f-8b7c-198198b3eec5
+œ	java:S116"URename this field "SQL_UPDATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú’Â»ûÿÿÿÿ8ûÁûˆƒ2J$158fe348-0c38-4b82-8160-e9c9560c67d2
+š	java:S116"YRename this field "SQL_FIND_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ø‚8ûÁûˆƒ2J$89810220-641a-4193-9d3d-2a0fb5c9acae
+¢	java:S116"`Rename this field "SQL_DELETE_BY_PRODUCT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì½«Ë8ûÁûˆƒ2J$d7d4d901-b552-4eb0-a667-cf5c1dd54266
 i
-java:S1170"!Make this final field static too.(î†Ãøÿÿÿÿ8ª«ï¶‚2J$96ec7eb6-65ae-4c00-8471-dd2e56a82e4c
-d
-java:S1170"!Make this final field static too.(Î§éÆ8ª«ï¶‚2J$b73f29df-f17f-40f1-aa5b-1717189aa0e8
+java:S1170"!Make this final field static too.(î†Ãøÿÿÿÿ8ûÁûˆƒ2J$aa57e174-a94a-4a84-a84d-12c4bfabf620
 i
-java:S1170"!Make this final field static too.(Ú’Â»ûÿÿÿÿ8ª«ï¶‚2J$0ae51498-4938-458e-9beb-14ace8101dec
+java:S1170"!Make this final field static too.(Èü¡Éıÿÿÿÿ8ıÁûˆƒ2J$86b46d55-66e3-4a4c-b790-0497d12dc8ce
+i
+java:S1170"!Make this final field static too.(Ú’Â»ûÿÿÿÿ8ıÁûˆƒ2J$7fd3eac1-06e5-49f7-8209-3c72a5dc9a5d
 c
-java:S1170"!Make this final field static too.(‰ø‚8ª«ï¶‚2J$e31057a0-f3dc-458e-acd0-131dbaf6fd96
+java:S1170"!Make this final field static too.(‰ø‚8ıÁûˆƒ2J$eb22464b-6fb6-4edc-96cd-9e19a0a6f936
 d
-java:S1170"!Make this final field static too.(ì½«Ë8ª«ï¶‚2J$0e6e41cd-3870-42c5-b2ef-ab890f72aada
+java:S1170"!Make this final field static too.(ì½«Ë8şÁûˆƒ2J$556ed5fb-4fdf-4109-bdd7-012099551c8c

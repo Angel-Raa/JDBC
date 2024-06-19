@@ -1,6 +1,11 @@
 package com.github.angel.entity;
 
-public class Categorie {
+import java.io.Serial;
+import java.io.Serializable;
+
+public class Categorie implements Serializable {
+    @Serial
+    private static final long serialVersionUID = -2913615183619938712L;
     private Long id;
     private String name;
 

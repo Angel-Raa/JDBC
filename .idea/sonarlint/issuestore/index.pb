@@ -5,8 +5,6 @@ X
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 C
 docker-compose.yaml,e/f/ef8def03dc8f162799089e9b5f4321201c8810d5
-4
-.env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 f
 6src/main/java/com/github/angel/utils/ConnectionDB.java,3/6/36ae1a563ca1052949e408e41ac77210ed1b70e7
 y
@@ -42,3 +40,5 @@ Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf302663
 .env-example,6/f/6fe2b8ce1383fe0b62bb599b7ed4920eadb3ad3a
 w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec
+4
+.env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a

@@ -18,6 +18,7 @@ public class Product implements Serializable {
     private Double precio;
     private Date fecha;
     private  Categorie categorie;
+    private String codigo;
 
     public Product() {}
 
@@ -82,6 +83,14 @@ public class Product implements Serializable {
         this.categorie = categorie;
     }
 
+    public String getCodigo() {
+        return codigo;
+    }
+
+    public void setCodigo(String codigo) {
+        this.codigo = codigo;
+    }
+
     @Override
     public String toString() {
         final StringBuffer sb = new StringBuffer("Product{");
@@ -91,6 +100,7 @@ public class Product implements Serializable {
         sb.append(", precio=").append(precio);
         sb.append(", fecha=").append(fecha);
         sb.append(", categorie=").append(categorie);
+        sb.append(", codigo='").append(codigo).append('\'');
         sb.append('}');
         return sb.toString();
     }

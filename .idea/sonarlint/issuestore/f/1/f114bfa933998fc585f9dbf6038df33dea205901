@@ -1,17 +1,13 @@
 
 ƒ
-java:S1854";Remove this useless assignment to local variable "service".(ê¦Úèşÿÿÿÿ8™ºÿ¶‚2J$91fe51c6-d7d4-40bf-8e21-0be3fd419ca7
-X
-java:S1854";Remove this useless assignment to local variable "product".(¢¦Ì›8Æ†·‚2
-I
-java:S1481",Remove this unused "product" local variable.(¢¦Ì›8È†·‚2
+java:S1854";Remove this useless assignment to local variable "service".(ê¦Úèşÿÿÿÿ8‚‘„‰ƒ2J$b51ae543-fe56-4218-82d3-305124baefd2
 t
-java:S1481",Remove this unused "service" local variable.(ê¦Úèşÿÿÿÿ8œºÿ¶‚2J$4e3a5c02-b11a-40ef-b0c6-4dcecf0448f8
-m	java:S106"+Replace this use of System.out by a logger.(ŸøÛ¼8ÚÌ³º2J$f1ba18b9-ad2d-4718-a246-516c4e63bc7e
-~	java:S125"<This block of commented-out lines of code should be removed.(äæÙ»8æÔ¶‚2J$ef2bf323-6999-454f-aec2-0e344c348e54
-m	java:S106"+Replace this use of System.out by a logger.(©ß“¼8§ˆ´º2J$8643eaaa-397c-4128-8e08-65b17fac9c39
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8»ŒÍ¶‚2J$5124f1a0-8798-47e0-9d91-10566c324ed1
-m	java:S106"+Replace this use of System.out by a logger.(·î›‹8øÛŠ¶‚2J$9b5dcadd-00ef-4398-9b07-b48433b73161
-}	java:S125"<This block of commented-out lines of code should be removed.(Êù¤J8ÚÌ³º2J$c3300a41-49b8-414a-b5dd-8156adc7cea0
-r	java:S106"+Replace this use of System.out by a logger.(šÎÀöÿÿÿÿÿ8 ÊÌ¶‚2J$0e7537e5-553e-4790-b473-27ae04e6efda
-ƒ	java:S125 "<This block of commented-out lines of code should be removed.(Ú†§­ÿÿÿÿÿ8Ÿºÿ¶‚2J$b44d5c57-4f3f-4aee-b259-504e9043594f
+java:S1481",Remove this unused "service" local variable.(ê¦Úèşÿÿÿÿ8…‘„‰ƒ2J$601af8b0-3053-40cc-8970-f60fb78c8f7a
+m	java:S106"+Replace this use of System.out by a logger.(ŸøÛ¼8†‘„‰ƒ2J$6a2c5345-176e-40ae-8f43-84848f65cf11
+~	java:S125"<This block of commented-out lines of code should be removed.(äæÙ»8†‘„‰ƒ2J$07627304-4318-49bd-8062-86edf2b5c954
+m	java:S106"+Replace this use of System.out by a logger.(©ß“¼8†‘„‰ƒ2J$1235a425-4c2b-4c35-895b-fcbe529f5df1
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8†‘„‰ƒ2J$d131051f-6158-4acb-8b06-bd6626049341
+m	java:S106&"+Replace this use of System.out by a logger.(·î›‹8Š‘„‰ƒ2J$30bf3188-11eb-4099-b294-3f849456ba46
+}	java:S125#"<This block of commented-out lines of code should be removed.(Êù¤J8Œ‘„‰ƒ2J$62342f30-6ea9-4e02-b9d1-37fc5c6a0814
+r	java:S106*"+Replace this use of System.out by a logger.(šÎÀöÿÿÿÿÿ8Œ‘„‰ƒ2J$f563229c-d92b-47b7-8073-8b796c49cda5
+ƒ	java:S125+"<This block of commented-out lines of code should be removed.(Ú†§­ÿÿÿÿÿ8Œ‘„‰ƒ2J$d39c5b27-00d7-4b67-b25d-261fb0270635
